@@ -30,9 +30,8 @@ export default function Home() {
       />
       <HowToBuy2D
         variant="simple"
-        title="How to Buy"
         steps={{
-          title: "Step by Step",
+          title: "How to Buy",
           description: "Follow these easy steps to buy MemCoin.",
           image: "/images/logo.svg",
           position: "center",
