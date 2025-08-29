@@ -1,4 +1,4 @@
-use client
+"use client";
 import NavbarBase from '@/components/navigation/NavbarBase';
 import FrameHero from '@/components/sections/layouts/hero/FrameHero';
 import CtaAbout from '@/components/sections/layouts/about/CtaAbout';
